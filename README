@@ -1,0 +1,5 @@
+Python 3 implementation of the ever-handy UNIX `seq` tool. Intended for Mac OS X.
+
+To simply download and begin using the latest copy:
+
+$ curl https://raw.github.com/gerberduffy/py-seq/master/install-latest.sh | sh
